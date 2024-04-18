@@ -1,0 +1,25 @@
+Accuracy when max_depth = 15 and n_estimators = 10: 0.03513411409142425
+Accuracy when max_depth = 15 and n_estimators = 10: 0.03286739705326785
+Accuracy when max_depth = 20 and n_estimators = 10: 0.02720060445787684
+Accuracy when max_depth = 25 and n_estimators = 10: 0.029089535323007176
+Accuracy when max_depth = 40 and n_estimators = 10: 0.01360030222893842
+Accuracy when max_depth = 50 and n_estimators = 10: 0.014733660748016623
+Accuracy when max_depth = 100 and n_estimators = 10: 0.019644880997355497
+
+Accuracy when max_depth = 15 and n_estimators = 20: 0.03437854174537212
+Accuracy when max_depth = 20 and n_estimators = 20: 0.03060068001511145
+Accuracy when max_depth = 25 and n_estimators = 20: 0.02871174914998111
+Accuracy when max_depth = 40 and n_estimators = 20: 0.0207782395164337
+Accuracy when max_depth = 50 and n_estimators = 20: 0.02455610124669437
+Accuracy when max_depth = 100 and n_estimators = 20: 0.029467321496033247
+
+Accuracy when max_depth = 25 and n_estimators = 10: 0.028333962976955042
+Accuracy when max_depth = 100 and n_estimators = 10: 0.019644880997355497
+Accuracy when max_depth = 250 and n_estimators = 10: 0.013222516055912353
+Accuracy when max_depth = 500 and n_estimators = 10: 0.009066868152625614
+Accuracy when max_depth = 1000 and n_estimators = 10: 0.009444654325651681
+
+Accuracy when max_depth = 25 and n_estimators = 100: 0.04231205137891953
+Accuracy when max_depth = 50 and n_estimators = 100: 0.04193426520589347
+Accuracy when max_depth = 100 and n_estimators = 100: 0.03513411409142425
+Accuracy when max_depth = 100 and n_estimators = 100: 0.03513411409142425
