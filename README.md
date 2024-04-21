@@ -21,6 +21,9 @@
 ## SVM Classifier
 - It contains all the data and files related to SVM
 
+## standarscaler.joblib
+- This is the file where we are storing the mean and standard deviation of the train data
+
 ## report.tex and report.pdf
 - They are the project reports
 
