@@ -1,45 +1,54 @@
 import React from 'react'
 import { ImGithub } from "react-icons/im";
 import { IoLogoLinkedin } from "react-icons/io";
-import test from '../Image/test.png'
+import p1 from '../Image/om.png'
+import p2 from '../Image/sp.png'
+import p3 from '../Image/sp1.png'
+import p4 from '../Image/mj.png'
+import p5 from '../Image/av.png'
+import p0 from '../Image/ar.png'
+
+
+
+
 function Team() {
     const teams=[
         {
             name:"Aditya Rathor",
-            img:test,
+            img:p0,
             linkdin:"",
-            github:""
+            github:"https://github.com/adityarathor007"
         },
         {
             name:"Sumeet Patil",
-            img:test,
+            img:p3,
             linkdin:"",
-            github:""
+            github:"https://github.com/ssp-8"
         },
         {
             name:"Swaksh Patwari",
-            img:test,
+            img:p2,
             linkdin:"",
-            github:""
+            github:"https://github.com/SwakshPatwari5"
         },
         {
             name:"Om kumar",
-            img:test,
+            img:p1,
             linkdin:"",
-            github:""
+            github:"https://github.com/OmKumar2004"
         },
         {
             name:"Manya Jain",
-            img:test,
+            img:p4,
             linkdin:"",
-            github:""
+            github:"https://github.com/manya2237"
         },
 
         {
             name:"Avani Rai",
-            img:test,
+            img:p5,
             linkdin:"",
-            github:""
+            github:"https://github.com/avani-rai"
         },
     ]
   return (
@@ -49,10 +58,9 @@ function Team() {
                 {teams.map((team,index)=>(
                     
                 <div key={index} className='profile_container'>
-                    <img src={`${team.img}`} alt="" className='prfile_pic'/>
+                    <img src={`${team.img}`} alt="" style={{ width: '100px', height: '120px' }} className='prfile_pic'/>
                     <h4>{team.name}</h4>
-                    <a href="http://www.google.com" target="_blank" rel="noopener noreferrer"> <ImGithub  size={30} color='black'style={{marginRight:"15px"}}/></a>
-                    <a href="http://www.google.com" target="_blank" rel="noopener noreferrer"> <IoLogoLinkedin size={30} color='black'/></a>
+                    <a href={team.github} target="_blank" rel="noopener noreferrer"> <ImGithub  size={30} color='black'style={{marginRight:"15px"}}/></a>
 
                 </div>
                 ))}
