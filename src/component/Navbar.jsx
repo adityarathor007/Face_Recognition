@@ -8,7 +8,7 @@ function Navbar() {
 </p>
          <p className='header_context'>Paper:
        
-          <a href="" style={{ textDecoration: 'none' }}> Report </a>
+          <a href="https://github.com/adityarathor007/Face_Recognition/blob/main/Group_17_Final_Report_PDF.pdf" style={{ textDecoration: 'none' }}> Report </a>
         </p>
     </div>
   )
