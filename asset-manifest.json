@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Face_Recognition/static/css/main.0b031e90.css",
-    "main.js": "/Face_Recognition/static/js/main.26548ff9.js",
+    "main.js": "/Face_Recognition/static/js/main.0ad0e5b1.js",
     "static/js/453.02e53410.chunk.js": "/Face_Recognition/static/js/453.02e53410.chunk.js",
     "static/media/mj.png": "/Face_Recognition/static/media/mj.34e3ba778ed156f8f544.png",
     "static/media/sp.png": "/Face_Recognition/static/media/sp.60aab213adf0b87faa52.png",
@@ -15,11 +15,11 @@
     "static/media/ar.png": "/Face_Recognition/static/media/ar.a36afaccadea71d84f05.png",
     "index.html": "/Face_Recognition/index.html",
     "main.0b031e90.css.map": "/Face_Recognition/static/css/main.0b031e90.css.map",
-    "main.26548ff9.js.map": "/Face_Recognition/static/js/main.26548ff9.js.map",
+    "main.0ad0e5b1.js.map": "/Face_Recognition/static/js/main.0ad0e5b1.js.map",
     "453.02e53410.chunk.js.map": "/Face_Recognition/static/js/453.02e53410.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b031e90.css",
-    "static/js/main.26548ff9.js"
+    "static/js/main.0ad0e5b1.js"
   ]
 }
